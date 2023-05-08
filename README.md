@@ -1,1 +1,1 @@
-# aniwatch-cil
+# aniwatch-cli
